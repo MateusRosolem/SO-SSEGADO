@@ -1,0 +1,23 @@
+sint2
+1
+1
+4
+s t
+
+exec 20000
+P(s)
+exec 20
+read 450
+exec 20
+print 1000
+read 15
+exec 20
+V(s)
+P(s)
+exec 2000
+P(t)
+exec 200000
+print 1500 
+V(t)
+V(s)
+exec 5000
